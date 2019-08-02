@@ -1,0 +1,42 @@
+div{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: yellow solid 10px;
+    height: 8pc;
+    margin: -1%;
+    color: gold;
+    background-color: #2c2e31;
+    width: 400;
+    height: 200;
+}
+
+body{
+padding: 10px;
+ background-color: #2c2e31;   
+
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: gold;
+    font-size: 20px;
+}
+h4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+word-spacing: 50px;
+color: white;
+text-decoration: pink;
+
+}
+
+h4 > a {
+    text-decoration: none;
+}
+a:hover {
+    background-color: whitesmoke;
+    color: black;
+
+    }
